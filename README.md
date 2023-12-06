@@ -4,7 +4,7 @@
 This project showcases a 3D card UI design created with HTML and CSS. The design features a dynamic layout with hover effects that provide a sense of depth and interaction. The card includes a logo, glass overlay, and content section with details about the user. Social media icons and a "Read More" link are included in the footer for additional interaction.
 ## Preview
 
-  <img src="" alt="">
+  <img src="./Preview/Screenshot 2023-12-06 at 18-37-51 Yassine's 3D Card.png" alt="screen dial Card hh">
 
 ## Live Demo
 You can view the live demo of the 3D Card UI   <a href="">Yassine's Card</a>

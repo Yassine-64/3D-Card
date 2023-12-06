@@ -7,7 +7,10 @@ This project showcases a 3D card UI design created with HTML and CSS. The design
   <img src="./Preview/Screenshot 2023-12-06 at 18-37-51 Yassine's 3D Card.png" alt="screen dial Card hh">
 
 ## Live Demo
-You can view the live demo of the 3D Card UI   <a href="">Yassine's Card</a>
+You can view the live demo of the 3D Card UI   <a href="https://3d-card-design-gray.vercel.app/" target="_blank" >Yassine's Card</a>
+
+!!!!
+I used Vercel.com to host this project, but you can also use Netlify or Firebase for free hosting.
 
 ## Getting Started
 To view the 3D Card UI locally, follow these steps:

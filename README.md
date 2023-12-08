@@ -38,12 +38,16 @@ How to Use:
     Click on the social media icons in the footer to navigate to respective profiles.
     Click on the "Read More" link to explore additional content.
 
-Customization
+Customization:
 
 Feel free to customize the content, colors, and styles in the HTML and CSS files according to your preferences. Update the social media links and add more sections as needed.
-License
+
+
+License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+
+
+Acknowledgments:
 
     Inspiration for hover effects: Kevin Powell
